@@ -76,4 +76,4 @@ spec:
 
 5) Схема
 
-![scheme.png](Screenshots/scheme.png) 
+![scheme.png](screenshots/scheme.png) 
