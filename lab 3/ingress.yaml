@@ -1,0 +1,20 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: lab3-ingress
+spec:
+  rules:
+    - host: localhost-plentybugs.com
+      http:
+        paths:
+          - backend:
+              service:
+                name: lab3-service
+                port:
+                  number: 8080
+            path: /
+            pathType: Prefix
+  tls:
+    - hosts:
+        - localhost-plentybugs.com
+      secretName: my-secret
