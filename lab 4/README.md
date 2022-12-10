@@ -130,4 +130,4 @@ data:
 ![ping.png](screenshots/ping.png)  
 
 Лабораторная работа выполнена  
-![scheme.png](screenshots/schemes.png)  
+![scheme.png](screenshots/scheme.png)  
