@@ -5,8 +5,8 @@ Year: 2022/2023
 Group: K4113c  
 Author: Zhukov Georgii Konstantinovich  
 Lab: Lab3    
-Date of create: 03.12.2022  
-Date of finished: 03.12.2022  
+Date of create: 10.12.2022  
+Date of finished: 10.12.2022  
 
 # Ход работы
 1) Создание сертификата  
