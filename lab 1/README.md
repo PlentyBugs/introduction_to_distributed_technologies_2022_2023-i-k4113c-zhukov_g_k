@@ -3,7 +3,7 @@ Faculty: [FICT](https://fict.itmo.ru)
 Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)  
 Year: 2022/2023  
 Group: K4113c  
-Author: ZHUKOV GEORGII KONSTANTINOVICH 
+Author: Zhukov Georgii Konstantinovich
 Lab: Lab1  
 Date of create: 01.12.2022  
 Date of finished: 01.12.2022  
